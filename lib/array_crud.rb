@@ -25,7 +25,11 @@ array.unshift "wow"
 p array
 
 def remove_element_from_end_of_array(array)
+<<<<<<< HEAD
   array = ["wow", "I", "am", "really", "learning"]
+=======
+  array = ["wow", "I", "am", "really", "learning", "arrays!"]
+>>>>>>> 2e5b605e26684ccdecc68278330c988ae40b69e6
 end
 
 last_element = array.pop
